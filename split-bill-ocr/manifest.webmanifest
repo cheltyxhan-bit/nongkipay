@@ -1,0 +1,19 @@
+{
+  "name": "NongkiPay — Patungan Jadi Gampang!",
+  "short_name": "NongkiPay",
+  "description": "Kalkulator Split Bill praktis, transparan, dan instan untuk nongkrong bareng teman.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#ecfdf5",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
